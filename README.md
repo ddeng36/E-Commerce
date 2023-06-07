@@ -5,7 +5,7 @@ This is a full stack E-commerce web app.The oringinal idea comes from [Lama Dev]
 - :green_circle: Using [Strapi](https://strapi.io/) as a headless CMS to manage products and orders. It's convenient to add, delete or update products and orders for admin.
 - :green_circle: Using MySQL as database. The database is hosted on localhost.
 - :green_circle: Using [Stripe](https://market.strapi.io/plugins/strapi-stripe) as payment method. Users can pay for their orders with it.
-
+1
 ## Getting Started
 1. Substitute your own credentials in `api/.env` and `client/.env`
 2. Run `npm install` in both api and client folder
